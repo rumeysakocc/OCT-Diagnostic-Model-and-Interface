@@ -33,7 +33,7 @@ The model training took 35 hours by applying 8 epochs on 90k data and a success 
 I recommend you to do your model training with a single epoch. Because the success you will get from a single epoch is also sufficient for the model. You can see the results below.
 ![result](https://github.com/rumeysakocc/OCT-Diagnostic-Model-and-Interface/assets/115664157/b1edb6ac-3ebc-4f6b-8724-f13296076fd7)
 
-<img src="https://github.com/rumeysakocc/OCT-Diagnostic-Model-and-Interface/assets/115664157/aaeff7a3-3e85-4dc3-aa48-f47dd90d6f98" alt="images" align="left" width="400" height="230">
+<img src="https://github.com/rumeysakocc/OCT-Diagnostic-Model-and-Interface/assets/115664157/aaeff7a3-3e85-4dc3-aa48-f47dd90d6f98" alt="images" align="left" width="400" height="250">
 
 At the end of the model training, the most successful of the weight files is selected and the interface is given.
 
