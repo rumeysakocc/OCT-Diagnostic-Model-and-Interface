@@ -25,6 +25,27 @@ In this project, the dataset used in the study "Identifying Medical Diagnoses an
 There are 90k data in the dataset with 4 classes in total.The dataset is available here[4].
 
 ## Objective and Result
+This project is a diagnostic interface that takes any number of images from the user and shows which class (NORMAL, DME, CNV and DRUSEN) the image belongs to with percentages.
+
+In order to run this interface on your computer, model training using the data set is required first.(OCT/ModelTraining.ipynb)
+
+The model training took 35 hours by applying 8 epochs on 90k data and a success rate close to 96% was achieved. 
+I recommend you to do your model training with a single epoch. Because the success you will get from a single epoch is also sufficient for the model. You can see the results below.
+![result](https://github.com/rumeysakocc/OCT-Diagnostic-Model-and-Interface/assets/115664157/b1edb6ac-3ebc-4f6b-8724-f13296076fd7)
+
+<img src="https://github.com/rumeysakocc/OCT-Diagnostic-Model-and-Interface/assets/115664157/aaeff7a3-3e85-4dc3-aa48-f47dd90d6f98" alt="images" align="left" width="400" height="230">
+
+At the end of the model training, the most successful of the weight files is selected and the interface is given.
+
+(OCT/Diagnostic_Interface.ipynb) Since we do not have a configuration file for the weight file to work on the interface, 
+EfficientNet uses it by creating a model using the B5 architecture.
+If you wish, you can give this model to the code as a config file.
+
+
+Thus, you will have a simple OCT diagnostic interface. 
+
+
+Waiting for your FeedBack
 
 
 ## References 
