@@ -5,7 +5,7 @@
 
 <p>OCT stands for optical coherence tomography. This is a technique that uses light waves to image the photosensitive tissue at the back of the eye.
 Different layers and thicknesses of the eye can be measured with OCT. 
-OCT is used in the diagnosis and follow-up of eye diseases such as retina and cornea[2] 
+OCT is used in the diagnosis and follow-up of eye diseases such as retina and cornea[2]
 
 In the 21st century, the development of optical coherence tomography (OCT) has revolutionised the ability to diagnose macular diseases and assess the necessity and effectiveness of treatments. It has become one of the most commonly performed medical imaging procedures, with approximately 30 million OCT scans performed each year worldwide. OCT imaging has now become the standard to guide the diagnosis and treatment of age-related macular degeneration (AMD) and diabetic macular oedema, the leading causes of preventable blindness worldwide.[2]</p>
 
