@@ -1,5 +1,5 @@
 
-## Diagnosis of disease from Optical Coherence Tomography (Classification)
+## Diagnosis of disease from Optical Coherence Tomography (Classification) 
 
 <img src="https://github.com/rumeysakocc/OCT-Diagnostic-Model-and-Interface/assets/115664157/74ce8d97-2051-477a-ad3a-51b903f895f7" alt="images" align="left" width="400" height="300">
 
